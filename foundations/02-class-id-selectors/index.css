@@ -1,0 +1,29 @@
+.first{
+    background-color: hsl(350, 61%, 72%);
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 18px;
+}
+#second{
+    color: rgb(82, 82, 157);
+    font-size: 36px;
+}
+.third{
+    background-color:hsl(350, 61%, 72%);
+    color: black;
+    font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#fourth{
+    background-color: hsl(151, 63%, 55%);
+    font-size: 24px;
+    color:black;
+    font-weight: bold;
+}
+.fifth{
+    background-color:hsl(350, 61%, 72%) ;
+    color: black;
+    font-size: 18px;
+}
